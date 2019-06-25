@@ -20,6 +20,12 @@ source set-gopath.sh
 tinygo build -o=flash.uf2 -target=circuitplay-express main.go
 ```
 
+### Examples
+
+- https://github.com/tinygo-org/drivers/tree/master/examples/ws2812
+- https://github.com/tinygo-org/drivers/tree/master/examples/lis3dh
+- https://github.com/tinygo-org/drivers/tree/master/examples/thermistor
+
 ## Links
 
 - https://tinygo.org/microcontrollers/circuit-playground-express/
