@@ -30,6 +30,7 @@ tinygo build -o=flash.uf2 -target=circuitplay-express main.go
 
 - https://tinygo.org/microcontrollers/circuit-playground-express/
 - https://www.adafruit.com/product/3333
+- https://learn.adafruit.com/adafruit-circuit-playground-express/guided-tour
 - https://godoc.org/github.com/tinygo-org/tinygo
 - https://godoc.org/tinygo.org/x/drivers/ws2812
 - https://godoc.org/tinygo.org/x/drivers/lis3dh
