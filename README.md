@@ -35,3 +35,4 @@ tinygo build -o=flash.uf2 -target=circuitplay-express main.go
 - https://godoc.org/tinygo.org/x/drivers/ws2812
 - https://godoc.org/tinygo.org/x/drivers/lis3dh
 - https://godoc.org/tinygo.org/x/drivers/thermistor
+- https://tinygo.org/microcontrollers/drivers/ (Link list to datasheets)
