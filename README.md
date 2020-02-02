@@ -3,6 +3,7 @@
 ## Getting started 
 
 - https://tinygo.org/getting-started/linux/
+- https://play.tinygo.org/
 
 
 ## Build your first TinyGo program 
