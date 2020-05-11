@@ -4,6 +4,7 @@
 
 - https://tinygo.org/getting-started/linux/
 - https://play.tinygo.org/
+- TinyGo + Vim + gopls https://dev.to/sago35/tinygo-vim-gopls-48h1
 
 
 ## Build your first TinyGo program 
